@@ -1,5 +1,11 @@
 # @skeletonlabs/skeleton-svelte
 
+## 1.0.0-next.15
+
+### Patch Changes
+
+- Introduce `showLabel` as a new prop for **ProgressRing** component ([#2996](https://github.com/skeletonlabs/skeleton/pull/2996))
+
 ## 1.0.0-next.14
 
 ### Patch Changes

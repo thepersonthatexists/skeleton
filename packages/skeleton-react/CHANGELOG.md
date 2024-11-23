@@ -1,5 +1,11 @@
 # @skeletonlabs/skeleton-react
 
+## 1.0.0-next.11
+
+### Patch Changes
+
+- Introduce `showLabel` as a new prop for **ProgressRing** component ([#2996](https://github.com/skeletonlabs/skeleton/pull/2996))
+
 ## 1.0.0-next.10
 
 ### Patch Changes
